@@ -15,4 +15,4 @@
 ### * Flask
 ### * bot
 ##Example:
-![alt text](./Example.jpn)
+![alt text](./Example.jpg)
